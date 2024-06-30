@@ -83,6 +83,10 @@ geeignet ist</p>
 <p><strong>Beschreibung:</strong> Ein mit Blazor und Entity Framework entwickeltes Bestands- und Verkaufsmanagementsystem optimiert die Verwaltung von Kategorien, Produkten und Verkaufsprozessen. Es umfasst Funktionen wie "Kategorien verwalten", "Produkte verwalten", "Kassiererkonsole", "Transaktionsbericht" und bietet mit einem Identity-System Autorisierung und Authentifizierung.</p>
 <p><strong>Verwendete Technologien:</strong> Blazor, SQL Server, Entity Framework</p>
 
+### Project 2: <a href="https://github.com/Hussam555/Bestands--und-Verkaufsmanagementsystems"> Nachrichtenportal</a>
+<p><strong>Beschreibung:</strong> Das entwickelte Nachrichtenportal nutzt Blazor für eine moderne, interaktive Webanwendung und bietet Funktionen zur Artikelverwaltung, Kategorisierung und Kommentierung.</p>
+<p><strong>Verwendete Technologien:</strong> Entity Framework und SQL Server werden für die Datenbankverwaltung eingesetzt.</p>
+
 ## Contact
 Gerne können Sie mich über folgende Wege erreichen:
 
