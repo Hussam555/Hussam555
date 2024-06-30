@@ -95,6 +95,10 @@ geeignet ist</p>
 <p><strong>Beschreibung:</strong> Das entwickelte E-Learning-System bietet eine moderne, interaktive Webanwendung zur Verwaltung von Kursen, Lektionen und Benutzerkonten</p>
 <p><strong>Verwendete Technologien:</strong>erstellt mit HTML und CSS.</p>
 
+### Project 6: <a href="https://github.com/Hussam555/Portfolio"> Portfolio </a>
+<p><strong>Beschreibung:</strong> Dieses Repository enthält mein persönliches Portfolio mit Projekten, Fähigkeiten, Ausbildung und Kontaktinformationen in einem ansprechenden Design.</p>
+<p><strong>Verwendete Technologien:</strong>erstellt mit HTML und CSS.</p>
+
 
 ## Contact
 Gerne können Sie mich über folgende Wege erreichen:
