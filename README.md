@@ -79,9 +79,9 @@ E-Mail-Marketing-Funktionen entwickelt wurde, das f¨ur kleine und mittelst¨and
 geeignet ist</p>
 <p><strong>Verwendete Technologien:</strong> C#, ASP.NET Core, MVC, SQL Server, Entity Framework</p>
 
-### Project 2: <a href="link-to-project">Project Name</a>
-<p><strong>Beschreibung:</strong> Kurzbeschreibung des Projekts.</p>
-<p><strong>Verwendete Technologien:</strong> Blazor, ML.Net</p>
+### Project 2: <a href="link-to-project"> Bestands- und Verkaufsmanagementsystems</a>
+<p><strong>Beschreibung:</strong> Ein mit Blazor und Entity Framework entwickeltes Bestands- und Verkaufsmanagementsystem optimiert die Verwaltung von Kategorien, Produkten und Verkaufsprozessen. Es umfasst Funktionen wie "Kategorien verwalten", "Produkte verwalten", "Kassiererkonsole", "Transaktionsbericht" und bietet mit einem Identity-System Autorisierung und Authentifizierung.</p>
+<p><strong>Verwendete Technologien:</strong> Blazor, SQL Server, Entity Framework</p>
 
 ## Contact
 Gerne können Sie mich über folgende Wege erreichen:
