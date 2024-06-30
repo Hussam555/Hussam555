@@ -91,6 +91,11 @@ geeignet ist</p>
 <p><strong>Beschreibung:</strong> Das entwickelte Blog-System nutzt Blazor für eine moderne, interaktive Webanwendung und bietet Funktionen zur Benutzerregistrierung, Erstellung und Bearbeitung von Blogeinträgen sowie Kommentarfunktion.</p>
 <p><strong>Verwendete Technologien:</strong>C#, Blazor, SQL Server, Entity Framework.</p>
 
+### Project 5: <a href="https://github.com/Hussam555/E-Learning-System"> E-Learning-System</a>
+<p><strong>Beschreibung:</strong> Das entwickelte E-Learning-System bietet eine moderne, interaktive Webanwendung zur Verwaltung von Kursen, Lektionen und Benutzerkonten</p>
+<p><strong>Verwendete Technologien:</strong>erstellt mit HTML und CSS.</p>
+
+
 ## Contact
 Gerne können Sie mich über folgende Wege erreichen:
 
