@@ -85,11 +85,11 @@ geeignet ist</p>
 
 ### Project 3: <a href="link-to-project"> Nachrichtenportal</a>
 <p><strong>Beschreibung:</strong> Das entwickelte Nachrichtenportal nutzt Blazor für eine moderne, interaktive Webanwendung und bietet Funktionen zur Artikelverwaltung, Kategorisierung und Kommentierung.</p>
-<p><strong>Verwendete Technologien:</strong> Entity Framework und SQL Server werden für die Datenbankverwaltung eingesetzt.</p>
+<p><strong>Verwendete Technologien:</strong> Blazor, SQL Server, Entity Framework.</p>
 
 ### Project 4: <a href="https://github.com/Hussam555/Blog-Verwaltungssystem"> Blog-Verwaltungssystem</a>
 <p><strong>Beschreibung:</strong> Das entwickelte Blog-System nutzt Blazor für eine moderne, interaktive Webanwendung und bietet Funktionen zur Benutzerregistrierung, Erstellung und Bearbeitung von Blogeinträgen sowie Kommentarfunktion.</p>
-<p><strong>Verwendete Technologien:</strong> Entity Framework und SQL Server werden zur Verwaltung von Blogeinträgen und Benutzerdaten eingesetzt.</p>
+<p><strong>Verwendete Technologien:</strong> Blazor, SQL Server, Entity Framework.</p>
 
 ## Contact
 Gerne können Sie mich über folgende Wege erreichen:
