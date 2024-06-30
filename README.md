@@ -73,9 +73,11 @@ Hier sind einige der Technologien und Werkzeuge, mit denen ich arbeite:
 
 Hier sind einige Highlights meiner Projekte:
 
-### Project 1: <a href="link-to-project">Project Name</a>
-<p><strong>Beschreibung:</strong> Kurzbeschreibung des Projekts.</p>
-<p><strong>Verwendete Technologien:</strong> C#, ASP.NET Core, SQL Server</p>
+### Project 1: <a href="link-to-project">CRM-System mit E-Mail -Marketing Funktionen</a>
+<p><strong>Beschreibung:</strong> ein CRM-System mit
+E-Mail-Marketing-Funktionen entwickelt wurde, das f¨ur kleine und mittelst¨andische Unternehmen (KMU)
+geeignet ist</p>
+<p><strong>Verwendete Technologien:</strong> C#, ASP.NET Core, MVC, SQL Server, Entity Framework</p>
 
 ### Project 2: <a href="link-to-project">Project Name</a>
 <p><strong>Beschreibung:</strong> Kurzbeschreibung des Projekts.</p>
