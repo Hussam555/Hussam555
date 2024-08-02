@@ -73,12 +73,6 @@ Hier sind einige der Technologien und Werkzeuge, mit denen ich arbeite:
 
 Hier sind einige Highlights meiner Projekte:
 
-### Project 1: <a href="link-to-project">CRM-System mit E-Mail -Marketing Funktionen</a>
-<p><strong>Beschreibung:</strong> ein CRM-System mit
-E-Mail-Marketing-Funktionen entwickelt wurde, das f¨ur kleine und mittelst¨andische Unternehmen (KMU)
-geeignet ist</p>
-<p><strong>Verwendete Technologien:</strong> C#, ASP.NET Core, MVC, SQL Server, Entity Framework</p>
-
 ### Project 2: <a href="https://github.com/Hussam555/Bestands--und-Verkaufsmanagementsystems"> Bestands- und Verkaufsmanagementsystems</a>
 <p><strong>Beschreibung:</strong> Ein mit Blazor und Entity Framework entwickeltes Bestands- und Verkaufsmanagementsystem optimiert die Verwaltung von Kategorien, Produkten und Verkaufsprozessen. Es umfasst Funktionen wie "Kategorien verwalten", "Produkte verwalten", "Kassiererkonsole", "Transaktionsbericht" und bietet mit einem Identity-System Autorisierung und Authentifizierung.</p>
 <p><strong>Verwendete Technologien:</strong> Blazor, SQL Server, Entity Framework</p>
