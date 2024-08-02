@@ -73,23 +73,23 @@ Hier sind einige der Technologien und Werkzeuge, mit denen ich arbeite:
 
 Hier sind einige Highlights meiner Projekte:
 
-### Project 2: <a href="https://github.com/Hussam555/Bestands--und-Verkaufsmanagementsystems"> Bestands- und Verkaufsmanagementsystems</a>
+### Project 1: <a href="https://github.com/Hussam555/Bestands--und-Verkaufsmanagementsystems"> Bestands- und Verkaufsmanagementsystems</a>
 <p><strong>Beschreibung:</strong> Ein mit Blazor und Entity Framework entwickeltes Bestands- und Verkaufsmanagementsystem optimiert die Verwaltung von Kategorien, Produkten und Verkaufsprozessen. Es umfasst Funktionen wie "Kategorien verwalten", "Produkte verwalten", "Kassiererkonsole", "Transaktionsbericht" und bietet mit einem Identity-System Autorisierung und Authentifizierung.</p>
 <p><strong>Verwendete Technologien:</strong> Blazor, SQL Server, Entity Framework</p>
 
-### Project 3: <a href="link-to-project"> Nachrichtenportal</a>
+### Project 2: <a href="link-to-project"> Nachrichtenportal</a>
 <p><strong>Beschreibung:</strong> Das entwickelte Nachrichtenportal nutzt Blazor für eine moderne, interaktive Webanwendung und bietet Funktionen zur Artikelverwaltung, Kategorisierung und Kommentierung.</p>
 <p><strong>Verwendete Technologien:</strong>C#, Blazor, SQL Server, Entity Framework.</p>
 
-### Project 4: <a href="https://github.com/Hussam555/Blog-Verwaltungssystem"> Blog-Verwaltungssystem</a>
+### Project 3: <a href="https://github.com/Hussam555/Blog-Verwaltungssystem"> Blog-Verwaltungssystem</a>
 <p><strong>Beschreibung:</strong> Das entwickelte Blog-System nutzt Blazor für eine moderne, interaktive Webanwendung und bietet Funktionen zur Benutzerregistrierung, Erstellung und Bearbeitung von Blogeinträgen sowie Kommentarfunktion.</p>
 <p><strong>Verwendete Technologien:</strong>C#, Blazor, SQL Server, Entity Framework.</p>
 
-### Project 5: <a href="https://github.com/Hussam555/E-Learning-System"> E-Learning-System</a>
+### Project 4: <a href="https://github.com/Hussam555/E-Learning-System"> E-Learning-System</a>
 <p><strong>Beschreibung:</strong> Das entwickelte E-Learning-System bietet eine moderne, interaktive Webanwendung zur Verwaltung von Kursen, Lektionen und Benutzerkonten</p>
 <p><strong>Verwendete Technologien:</strong>erstellt mit HTML und CSS.</p>
 
-### Project 6: <a href="https://github.com/Hussam555/Portfolio"> Portfolio </a>
+### Project 5: <a href="https://github.com/Hussam555/Portfolio"> Portfolio </a>
 <p><strong>Beschreibung:</strong> Dieses Repository enthält mein persönliches Portfolio mit Projekten, Fähigkeiten, Ausbildung und Kontaktinformationen in einem ansprechenden Design.</p>
 <p><strong>Verwendete Technologien:</strong>erstellt mit HTML und CSS.</p>
 
