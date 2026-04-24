@@ -1,9 +1,13 @@
 # 👋 Hi there, I'm Hussam Al Khatib!
 
 ## About Me
-Ich bin Hussam Al Khatib, 28 Jahre alt. Ich habe mein Bachelorstudium in Informatik an der [OVGU Magdeburg](https://www.ovgu.de/) absolviert und setze derzeit mein Masterstudium fort.
+Ich bin Hussam Al Khatib, Informatiker mit abgeschlossenem Bachelor- und Masterstudium der Informatik an der [Otto-von-Guericke-Universität Magdeburg](https://www.ovgu.de/).
 
-Ich bin ein leidenschaftlicher Entwickler mit umfangreicher Erfahrung in verschiedenen Technologien und Frameworks. Meine Hauptfokusbereiche umfassen:
+Ich verfüge über Kenntnisse in der Analyse technischer Systeme, verschlüsselter Netzwerkkommunikation und informationssicherheitsrelevanten Fragestellungen. Im Masterstudium habe ich mich vertieft mit Netzwerksicherheit und der Analyse von TLS-Kommunikation beschäftigt.
+
+Darüber hinaus habe ich Erfahrung in der Entwicklung von Web- und Softwarelösungen mit C#, JavaScript und .NET-Technologien sowie Kenntnisse in Datenbanken und technischer Dokumentation.
+
+Meine Hauptfokusbereiche umfassen:
 
 - **C# Entwickler**
 - **.NET Entwickler**
